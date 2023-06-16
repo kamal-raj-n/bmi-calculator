@@ -1,0 +1,106 @@
+body{
+
+  background: #333 url("quinoa-mushrooms-lettuce-red-cabbage-spinach-cucumbers-tomatoes-bowl-buddha-dark-top-view.jpg")  no-repeat;
+  background-size: cover;
+
+}
+
+.content{
+  width: 400px;
+  height: 650px;
+  margin: 50px auto 0 50px;
+  box-sizing: border-box;
+  background: url("100932825-background-with-healthy-food-eco-farm-food.jpg") top left repeat;
+  box-shadow: 0 10px 15px -8px #000;
+  border-radius: 10px;
+  text-align: center;
+}
+h1{
+  text-align: center;
+  color: white;
+  text-shadow: 0 10px 15px -8px #000;
+
+
+}
+.head{
+  border-radius: 20px;
+  background: url("back.png") top left repeat;
+  width: 60%;
+  margin: 10px auto;
+  padding: 0 20px;
+  opacity: 90%;
+}
+
+.calci{
+  border-radius: 20px;
+  background: url("back.png") top left repeat;
+  width: 80%;
+  margin: 90px auto 30px;
+  padding: 0 20px;
+  opacity: 90%;
+}
+
+form{
+  text-align: left;
+
+}
+
+form label{
+  padding: 20px;
+  display: block;
+  margin: 25px 0;
+  font-weight: bold;
+  color: white;
+}
+
+
+form input, form select{
+  padding: 7px;
+  margin: 5px 0;
+  border-radius: 5px;
+
+}
+
+form select{
+  width: 90px;
+  font-size: 10px;
+
+}
+
+button{
+  background: url("back.png") top left repeat;
+  color:white;
+  border: none;
+  border: solid 3px white;
+  border-radius: 20px;
+  text-transform: uppercase;
+  font-size: 18px;
+  padding: 10px 20px;
+  width: 50%;
+  margin-left: 25%;
+  margin-bottom: 30px;
+}
+
+button:hover{
+  background: grey;
+  border: solid 3px #6ABAF8;
+  color: white;
+}
+
+button:active{
+  background: grey;
+  border: solid 3px ;
+  color: black;
+  position: relative;
+  top: 1px;
+}
+
+#bmicalci{
+  background-color: white;
+  width: 50%;
+  margin-left: 25%;
+  border-radius:20px;
+  border: solid 3px #222;
+  font-size: 50px;
+
+}
