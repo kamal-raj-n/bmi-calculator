@@ -1,11 +1,11 @@
 body{
-  background: url("quinoa-mushrooms-lettuce-red-cabbage-spinach-cucumbers-tomatoes-bowl-buddha-dark-top-view.jpg") center center cover no-repeat fixed;
+  background: url("quinoa-mushrooms-lettuce-red-cabbage-spinach-cucumbers-tomatoes-bowl-buddha-dark-top-view.jpg") cover no-repeat fixed;
 
 }
 
 .content{
   width: 400px;
-  height: 650px;
+  height: 100%;
   margin: 50px auto 0 50px;
   box-sizing: border-box;
   background: url("100932825-background-with-healthy-food-eco-farm-food.jpg") top left repeat;
