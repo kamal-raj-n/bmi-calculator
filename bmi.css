@@ -6,6 +6,7 @@ body{
 .content{
   width: 400px;
   height: 700px;
+  padding:20px;
   margin: 50px auto 50px 50px;
   box-sizing: border-box;
   background: url("100932825-background-with-healthy-food-eco-farm-food.jpg") top left repeat;
