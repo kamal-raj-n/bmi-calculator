@@ -1,6 +1,5 @@
 body{
-  background: url("quinoa-mushrooms-lettuce-red-cabbage-spinach-cucumbers-tomatoes-bowl-buddha-dark-top-view.jpg") cover no-repeat fixed;
-
+  background: #333 url("quinoa-mushrooms-lettuce-red-cabbage-spinach-cucumbers-tomatoes-bowl-buddha-dark-top-view.jpg") cover no-repeat fixed;
 }
 
 .content{
@@ -97,6 +96,7 @@ button:active{
   background-color: white;
   width: 50%;
   margin-left: 25%;
+  margin-bottom: 10px;
   border-radius:20px;
   border: solid 3px #222;
   font-size: 50px;
